@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(../3004390.jpg) ;
+    background-size: cover;
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+h1{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
